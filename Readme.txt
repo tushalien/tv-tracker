@@ -4,5 +4,3 @@ Change phpmyadmin passwords in file :-
 3) insert.php
 
 url for admin page :- localhost/show/Admin
-
-Team: AW-Warriors
